@@ -1,8 +1,7 @@
 - 👋 Hello, I’m Rafael Hernandez
-- 👨‍💼 I'm a Data Scientist 
+- 👨‍💼 I'm a Data Scientist and Numerical Analyst
 - 💡 I'm interested in Natural Language Processing, Text Mining and Bayesian Networks
-- 📖 I’m currently learning Time Series and Forecasting
-- 🤝 I'm lookin to collaborate on algorithmic trading 
+- 📖 I’m currently learning Time Series and Forecasting 
 - 📫 You can reach me @ Rafael.Hernandez852@gmail.com
 
 <!---
