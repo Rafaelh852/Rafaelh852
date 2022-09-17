@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Rafael Hernandez
-- 👨‍💼 I'm a Data Scientist, Consultant, and Educator
-- :muscle: Strengths in Causal Inference, Machine Learning, Text Analysis, Sentiment Analysis, and NLP
+- 👨‍💼 I'm a Data Scientist
+- :muscle: Strengths in Machine Learning, text mining, and NLP
 - 📫 You can reach me @ Rafael.Hernandez852@gmail.com
 
 <!---
