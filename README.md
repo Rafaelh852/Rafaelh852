@@ -1,5 +1,4 @@
 - 👋 Hello, I’m Rafael Hernandez
-- 👨‍💼 I'm a Data Scientist
 - :muscle: Strengths in Machine Learning, text mining, and NLP
 - 📫 You can reach me @ Rafael.Hernandez852@gmail.com
 
