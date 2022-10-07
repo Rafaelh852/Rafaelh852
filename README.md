@@ -1,11 +1,11 @@
 👋  Hello, I’m Rafael Hernandez  
-:construction_worker:  I'm a Data Scientist  
+👷  I'm a Data Scientist  
 
-:book:  Machine Learning | Regression Analysis | Algorithms | Data Visualization  
-:muscle:  Python (Programming) | SQL | Tableau | R (Programming) | MATLAB | C++  
-:computer:  Flask (Python Framework) | ReactJS | JavaScript | HTML5 | CSS | Markdown  
+💡  Machine Learning | Regression Analysis | Algorithms | Data Visualization  
+💪  Python (Programming) | SQL | Tableau | R (Programming) | MATLAB | C++  
+💻  Flask (Python Framework) | ReactJS | JavaScript | HTML5 | CSS | Markdown  
 
-:books: Master of Applied Mathematics •	California State University Long Beach  
+📚 Master of Applied Mathematics •	California State University Long Beach  
 
 📫 You can reach me @ Rafael.Hernandez852@gmail.com
 
