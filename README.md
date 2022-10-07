@@ -1,5 +1,4 @@
-👋 Hello, I’m Rafael Hernandez  
-👷 I'm a Data Scientist  
+👋 Hello, I’m Rafael Hernandez    
 
 💡 Machine Learning • Regression Analysis • Algorithms • Data Visualization  
 💪 Python (Programming) • SQL • Tableau • R (Programming) • MATLAB • C++  
