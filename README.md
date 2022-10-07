@@ -1,5 +1,4 @@
 👋  Hello, I’m Rafael Hernandez  
-
 :construction_worker:  I'm a Data Scientist  
 
 :book:  Machine Learning | Regression Analysis | Algorithms | Data Visualization  
