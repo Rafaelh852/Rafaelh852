@@ -4,7 +4,7 @@
 
 :book:  Machine Learning | Regression Analysis | Algorithms | Data Visualization  
 
-:muscle:  Python (Programming) | SQL | Tableau | Microsoft Excel | R (Programming) | MATLAB | C++  
+:muscle:  Python (Programming) | SQL | Tableau | R (Programming) | MATLAB | C++  
 
 :computer:  Flask (Python Framework) | ReactJS | JavaScript | HTML5 | CSS | Markdown  
 
