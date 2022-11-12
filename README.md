@@ -1,8 +1,9 @@
 👋 Hello, I’m Rafael Hernandez    
 
-💡 Machine Learning • Regression Analysis • Algorithms • Data Visualization  
-💪 Python (Programming) • SQL • Tableau • R (Programming) • MATLAB • C++  
-💻 Flask (Python Framework) • ReactJS • JavaScript • HTML5 • CSS • Markdown  
+
+💪 Machine Learning • Regression Analysis • Algorithms • Data Visualization  
+💻 Python (Programming) • SQL • Tableau • R (Programming) • MATLAB • C++  
+💡 Flask (Python Framework) • ReactJS • JavaScript • HTML5 • CSS • Markdown  
 
 📚 Master of Applied Mathematics •	California State University Long Beach  
 
