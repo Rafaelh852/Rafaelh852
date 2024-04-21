@@ -15,14 +15,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--
-Carreer Options
 
-ML Engineer 
-
-MLOps
-
-Distributed Systems engineer
-
-Database Engineer
+- MLOPS
+- Backend Engineer
+- SysAdmin
 
 -->
