@@ -1,6 +1,6 @@
 Rafael Hernandez
 
-Member of Technical Staff - Digital Engineering @ The Aerospace Corporation 
+Member of Technical Staff - Digital Engineering @ The Aerospace Corporation \
 Full Stack • Databases • System Design • Machine Learning
 
 Master of Applied Mathematics •	California State University Long Beach  
