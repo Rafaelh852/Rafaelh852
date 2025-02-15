@@ -1,3 +1,3 @@
 Rafael Hernandez
 
-Full Stack • Databases • System Design • Machine Learning Engineer
+Full Stack • Databases • System Design • Machine Learning
